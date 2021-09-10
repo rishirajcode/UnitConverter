@@ -3,11 +3,7 @@
   "artifactType": {
     "type": "APK",
     "kind": "Directory"
-  },
-  "applicationId": "com.example.unitconvert",
-  "variantName": "debug",
-  "elements": [
-    {
+  }
       "type": "SINGLE",
       "filters": [],
       "properties": [],
