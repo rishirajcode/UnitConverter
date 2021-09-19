@@ -4,9 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   }
-      "type": "SINGLE",
-      "filters": [],
-      "filters": [],
+      
       "properties": [],
       "versionCode": 1,
       "versionName": "1.0",
