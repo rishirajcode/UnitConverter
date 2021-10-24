@@ -42,7 +42,7 @@ INJECTED from D:\Workspace\Android Studio Projects\UnitConvert\app\src\main\Andr
 		INJECTED from D:\Workspace\Android Studio Projects\UnitConvert\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Workspace\Android Studio Projects\UnitConvert\app\src\main\AndroidManifest.xml:2:11-69
-application
+
 ADDED from D:\Workspace\Android Studio Projects\UnitConvert\app\src\main\AndroidManifest.xml:5:5-19:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Rishi Raj\.gradle\caches\transforms-2\files-2.1\cdaa83194e29814d01eb1fc6312e9c9a\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Rishi Raj\.gradle\caches\transforms-2\files-2.1\cdaa83194e29814d01eb1fc6312e9c9a\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
